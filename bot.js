@@ -1,11 +1,11 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const exampleEmbed = new Discord.RichEmbed()
-const token2 = 'Njk5MTg0MjcyNTY4NzQ2MDE1.XstVBw.vx7YiOmnqvEHdsM2XGc6NBj3dvI'
+const token2 = 'mfa.XQLAyp21nS6ytUW_6cFXcN_td9kAHJ9HVq4L5bEHv15iJHCQfeESCuLr1eVB-0iiQKmH4ycLepwsnN6xm3Rf'
 const prefix = "x";
 
 bot.on('ready', function() {
-    bot.user.setActivity("NoCapToon", {type: "STREAMING", url: "https://www.twitch.tv/thanatos404"})
+    bot.user.setActivity("𝘽𝘼𝙉𝙂⇝𝙏𝙊𝙊𝙉#0095", {type: "STREAMING", url: "https://www.twitch.tv/thanatos404"})
     console.log('selfbot ready');
 console.log('UZI SELFBOT ON');
 console.log('LOGS DOWN');
@@ -468,6 +468,6 @@ var secret = new Discord.RichEmbed()
 }})
  
         
-    bot.login("Njk5MTg0MjcyNTY4NzQ2MDE1.XstVBw.vx7YiOmnqvEHdsM2XGc6NBj3dvI")
+    bot.login("mfa.XQLAyp21nS6ytUW_6cFXcN_td9kAHJ9HVq4L5bEHv15iJHCQfeESCuLr1eVB-0iiQKmH4ycLepwsnN6xm3Rf")
 
 
